@@ -23,9 +23,7 @@ HR teams often deal with scattered employee and recruitment data. This project f
 - Python
 - SQL
 - Power BI
-- Pandas
-- NumPy
-- Scikit-learn
+
 
 ---
 
