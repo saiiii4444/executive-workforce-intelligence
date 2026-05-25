@@ -5,7 +5,7 @@ Global Workforce Intelligence & Talent Optimization is a comprehensive HR analyt
 
 Data Sources
 
-The analysis integrates multiple publicly available HR datasets to simulate the kind of information a large organisation like Bureau Veritas might collect:
+The analysis integrates multiple publicly available HR datasets to simulate the kind of information a large organisation might collect:
 
 IBM HR Attrition Dataset (1470 rows, 35 columns): Contains demographics, job role, performance, overtime, satisfaction, engagement, tenure, and whether an employee left (Attrition).
 HRDataset_v14 (311 rows, 36 columns): Provides employee names, departments, positions, salary, performance scores, engagement surveys, satisfaction, special projects count, absences, lateness, and recruitment source.
